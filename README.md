@@ -77,5 +77,3 @@ To use the library functions in your code, simply include its header:
 
 -   Rigor  
 -   Algorithms & AI
-
-### [Go back](https://github.com/Neress-dono/common-core_42)
