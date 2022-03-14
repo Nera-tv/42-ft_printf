@@ -1,0 +1,7 @@
+.vscode/
+.DS_Store
+a.out
+.objects/
+.objects_bonus/
+push_swap.h.gch
+libft.a
